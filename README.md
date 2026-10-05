@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-Data Scientist with **15+ years of pharmaceutical industry experience** and **6+ years of hands-on AI/ML** building production GenAI solutions. Expert in **LLMs, LangChain, RAG, CNN, LSTM** and **Agentic AI** — delivering **90% cost savings** and **40% productivity gains**. Uniquely bridges advanced AI/ML with deep pharma domain knowledge — FDA regulatory, pharmacokinetics, oncology/immunology, and IQVIA market analytics.
+Data Scientist with **20+ years of pharmaceutical industry experience** and **6+ years of hands-on AI/ML** building production GenAI solutions. Expert in **LLMs, LangChain, RAG, CNN, LSTM** and **Agentic AI** — delivering **90% cost savings** and **40% productivity gains**. Uniquely bridges advanced AI/ML with deep pharma domain knowledge — FDA regulatory, pharmacokinetics, oncology/immunology, and IQVIA market analytics.
 
 - 🔭 Currently working on **Agentic AI & LLM systems** in pharma
 - 🧬 Domain expertise: **Pharmacokinetics, Drug-Drug Interactions, ADME, Oncology, Immunology**
